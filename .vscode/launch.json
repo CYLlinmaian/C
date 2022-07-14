@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "c:/Users/CYLlinmaian/Desktop/test/Python",
-      "program": "c:/Users/CYLlinmaian/Desktop/test/Python/build/Debug/outDebug",
+      "cwd": "c:/Users/CYLlinmaian/Desktop/C",
+      "program": "c:/Users/CYLlinmaian/Desktop/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
